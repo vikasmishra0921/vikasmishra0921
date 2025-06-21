@@ -1,9 +1,63 @@
-# 💫 Hi 👋, I'm Vikas Mishra
-**A passionate Data Engineer || AI & ML ||**
+## 👋 Hey there, I'm Vikas Mishra
 
-- 🔭 **I’m currently working on:**  -
-- 🌱 **I’m currently learning:** Data Science
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+🔍 Data Science Enthusiast | AI/ML Explorer | Web Developer by Curiosity
+
+I'm Vikas from Bhiwandi, Maharashtra 🇮🇳 — a data-obsessed learner on a mission to extract insight from chaos. I’m diving deep into data science, machine learning, and AI while blending in full-stack development to turn ideas into intelligent, interactive solutions.
+
+---
+
+### 🧠 Data Skills & Tools
+**Languages & Libraries:**  
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, TensorFlow (learning now)
+
+**Data & Visualization:**  
+Power BI, Tableau, SQL, Excel, Jupyter Notebook
+
+**Machine Learning:**  
+Regression, Classification, Clustering, Recommendation Systems, NLP, Model Evaluation
+
+---
+
+### 💻 Also Familiar With
+HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL  
+Git, GitHub, VS Code, Postman, REST APIs
+
+---
+
+### 🧪 Current Experiments
+- Building AI models for real-world predictions  
+- Playing with NLP & Recommendation Systems  
+- Integrating ML into full-stack apps  
+- Automating reports & dashboards with Python + Power BI
+
+---
+
+### 📂 Projects I'm Proud Of
+- 🤖 **Movie Recommendation System** – NLP-based similarity engine  
+- 📈 **Stock Price Predictor** – Time series model using Python  
+- 📊 **Sales Dashboard** – Power BI dashboard for retail insights  
+- 🩺 **Prescripto** – Full-stack doctor appointment system  
+- 🥗 **GoFood** – Food delivery web app (MERN Stack)
+
+---
+
+### 💬 My Motto
+> “Numbers tell stories. I just help translate them.”
+
+---
+
+### 📫 Connect With Me
+- 📧 mishravikas8087@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vikasmishra3/)  
+- 🧑‍💻 [GitHub](https://github.com/vikasmishra0921)
+
+---
+
+_Always learning, always building, always questioning._  
+Let’s shape the future with data. 
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikasmiishra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikasmishra3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishravikas8087@gmail.com) 

@@ -23,10 +23,6 @@ HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL
 Git, GitHub, VS Code, Postman, REST APIs
 
 ---
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css&theme=dark" />
-
----
 ### 🧪 Current Experiments
 - Building AI models for real-world predictions  
 - Playing with NLP & Recommendation Systems  
